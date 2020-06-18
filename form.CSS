@@ -7,3 +7,13 @@ body{
     margin: 70px auto;
     color:black
 }   
+
+.header{
+    height: 100vh;
+    background-image: url(./img/fetch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+   padding: 0;
+   margin-bottom: 10px;
+}
