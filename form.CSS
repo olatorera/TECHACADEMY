@@ -1,0 +1,9 @@
+body{
+    background-color: coral;
+}
+.container,
+.login{
+    width: 450px;
+    margin: 70px auto;
+    color:black
+}   
