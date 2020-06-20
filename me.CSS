@@ -1,6 +1,69 @@
 body{
-    background-color: cadetblue;
+    background-color: rgb(164, 185, 178)
 }
 .about{
 text-align: center;
+}
+.courses{
+    text-align: center;
+    display: flex;
+}
+.webdev{
+    line-height: 3vh;
+    align-items: left;
+    text-align: left;
+}
+.uiux{
+    line-height: 3vh;
+    align-items: center;
+    text-align: center;
+}
+.design{
+    line-height: 3vh;
+    align-items: right;
+    text-align: right;
+    padding: 0 20ox;
+}
+.button1{
+    font-size: 18px;
+    text-decoration: none;
+    color: blue;
+    border: black 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.button2{
+    font-size: 18px;
+    text-decoration: none;
+    color: blue;
+    border: black 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+ }
+.button3{
+    font-size: 18px;
+    text-decoration: none;
+    color: blue;
+    border: black 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.button1:hover{
+    background: black;
+    color: beige;
+}
+.button2:hover{
+    background:black;
+    color: beige;
+}
+.button3:hover{
+    background: black;
+    color: beige;
+}
+.participant{
+    padding-top: 50%;
+}
+.uiux{
+    background-color:rgb(100, 75, 122);
+    color: burlywood;
 }
